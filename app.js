@@ -3,7 +3,7 @@
 */
 
 const FLOW_LOGIN_URL = "FLOW_LOGIN_URL";
-const FLOW_SIGNUP_URL = "FLOW_SIGNUP_URL";
+const FLOW_SIGNUP_URL = "v1/Default-ddab0299-dabf-4198-a277-fcf4665c5198/9ee8ef5c-a0d3-45e4-978c-72fd80ffb246";
 const FLOW_CREATE_DEMANDE_URL = "FLOW_CREATE_DEMANDE_URL";
 
 // Prevent double initialization
@@ -161,3 +161,4 @@ document.addEventListener('DOMContentLoaded', ()=>{
   initLogin();
   initInterface();
 });
+
